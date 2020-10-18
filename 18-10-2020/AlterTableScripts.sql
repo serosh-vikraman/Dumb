@@ -13,3 +13,6 @@ ALTER COLUMN [Description] varchar(3000);
 
 ALTER TABLE CurrencyExchange 
 DROP COLUMN CancelStatus;
+
+UPDATE FinancialDataTypesScenario SET ScenarioTypeID=3, ScenarioTypeCode='AC' 
+WHERE ScenarioTypeCode='FC' and ScenarioScopeCode = 'BL';
