@@ -1,0 +1,3 @@
+2020-12-08 10:58:27.7824|INFO|TechnipFMC.Finapp.Service.API.ScenarioDataController|ClearScenarioData|Cleared ScenarioData from SCenario =210 by mabraham|
+2020-12-08 10:58:32.9861|INFO|TechnipFMC.Finapp.Service.API.ScenarioController|DeleteScenarios|Deleted Scenario Id=210 by mabraham|
+2020-12-08 11:14:27.5440|INFO|TechnipFMC.Finapp.Service.API.ProjectController|DeleteProject|Deleted Project Id=881 by mabraham|
